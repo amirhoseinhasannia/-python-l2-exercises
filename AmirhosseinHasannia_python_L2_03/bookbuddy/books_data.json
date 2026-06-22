@@ -1,0 +1,33 @@
+[
+    {
+        "type": "Book",
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "genre": "Education",
+        "pages": 464,
+        "date_added": "2026-05-28",
+        "pages_read": 100
+    },
+    {
+        "type": "EBook",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "genre": "Education",
+        "pages": 500,
+        "date_added": "2026-05-28",
+        "pages_read": 200,
+        "file_size_mb": 10,
+        "file_format": "PDF"
+    },
+    {
+        "type": "AudioBook",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-help",
+        "pages": 420,
+        "date_added": "2026-05-28",
+        "pages_read": 210,
+        "duration_minutes": 420,
+        "narrator": "James Clear"
+    }
+]
